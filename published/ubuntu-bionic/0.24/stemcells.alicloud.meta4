@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<metalink xmlns="urn:ietf:params:xml:ns:metalink">
+  <file name="light-bosh-stemcell-0.24-alicloud-kvm-ubuntu-bionic-go_agent.tgz">
+    <hash type="md5">7b42cb6503f83ff93b956b907134b232</hash>
+    <hash type="sha-1">289a070661ffdafeedbad5f299039a6a2c27a1e1</hash>
+    <hash type="sha-256">eecea11427cb784cf5dcbebe1422756bf46737700d7db6ba7884c2ffc98b16d5</hash>
+    <hash type="sha-512">6326d93ec23b9bffca097afcbd5a293e4771c6be68bd6f97492a0173a82913ad0034b90293ca4e26e95902ad54bd60fe6cbbef1767d65967e057629856b9554c</hash>
+    <size>19903</size>
+    <url location="cn" priority="1">https://bosh-alicloud-light-stemcells-cn.oss-cn-hangzhou.aliyuncs.com/light-bosh-stemcell-0.24-alicloud-kvm-ubuntu-bionic-go_agent.tgz</url>
+    <url location="eu" priority="1">https://bosh-alicloud-light-stemcells-eu.oss-eu-central-1.aliyuncs.com/light-bosh-stemcell-0.24-alicloud-kvm-ubuntu-bionic-go_agent.tgz</url>
+    <version>0.24</version>
+  </file>
+  <generator>metalink.dpb587.github.io/0.0.0</generator>
+</metalink>
