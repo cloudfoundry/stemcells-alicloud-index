@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<metalink xmlns="urn:ietf:params:xml:ns:metalink">
+  <file name="light-bosh-stemcell-0.3-alicloud-kvm-ubuntu-jammy-go_agent.tgz">
+    <hash type="md5">11c9bbb54fbca6f19529b05d4740e12a</hash>
+    <hash type="sha-1">994e4813b9102fdb2d764f17803dba541c09b596</hash>
+    <hash type="sha-256">46e4e408707173c4bcd02a0a992cceef4959aea7e44c0b9c92156ea5fef970bb</hash>
+    <hash type="sha-512">85ffeec75d3c452827d9396ad9ea12c978002aa81c249ddfcaf09c31808628431fd8b253b345a1c3125e247f074f502ca25faf9c4deee0301e8698991ccdafcd</hash>
+    <size>20434</size>
+    <url location="cn" priority="1">https://bosh-alicloud-light-stemcells-cn.oss-cn-hangzhou.aliyuncs.com/light-bosh-stemcell-0.3-alicloud-kvm-ubuntu-jammy-go_agent.tgz</url>
+    <url location="eu" priority="1">https://bosh-alicloud-light-stemcells-eu.oss-eu-central-1.aliyuncs.com/light-bosh-stemcell-0.3-alicloud-kvm-ubuntu-jammy-go_agent.tgz</url>
+    <version>0.3</version>
+  </file>
+  <generator>metalink.dpb587.github.io/0.0.0</generator>
+</metalink>
